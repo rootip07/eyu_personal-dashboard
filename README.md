@@ -28,6 +28,17 @@ Files & structure
   - `assets/sign.html` — sign-up page with a form.
   - images such as `profile.jpg`, `contact us.jpg` (note: filenames with spaces may cause URL issues).
 
+  Technologies & tools used
+  -------------------------
+  - HTML5 — markup for all pages (`.html` files).
+  - CSS3 — styling (both external `style.css` and internal page-specific styles).
+  - JavaScript (vanilla) — small UI interactions in `index.js` and form handling stubs.
+  - Images — JPEG/PNG files stored in the `assets/` folder.
+  - Local development: a simple static server is sufficient (e.g. Python 3's `http.server`).
+  - Editor: any text editor or IDE (VS Code recommended).
+  - Browser: modern browsers such as Chrome, Firefox, or Edge for testing.
+  - No build tools — this is a static site without a build step.
+
 Notes
 -----
 - Some About pages use internal CSS for isolation; other pages rely on `assets/style.css`.
@@ -43,3 +54,4 @@ Suggested next steps
 License
 -------
 Personal or unlicensed project. Add a license file if you plan to share or publish this repository.
+
