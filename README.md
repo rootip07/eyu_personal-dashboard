@@ -28,6 +28,14 @@ Files & structure
   - `assets/sign.html` — sign-up page with a form.
   - images such as `profile.jpg`, `contact us.jpg` (note: filenames with spaces may cause URL issues).
 
+  Screenshot
+  ----------
+  Here is a quick screenshot of the dashboard UI:
+
+  ![Eyu Dashboard screenshot](screen.png)
+
+  You can also open `screen.png` directly from the project root to view the image locally.
+
   Technologies & tools used
   -------------------------
   - HTML5 — markup for all pages (`.html` files).
@@ -54,4 +62,3 @@ Suggested next steps
 License
 -------
 Personal or unlicensed project. Add a license file if you plan to share or publish this repository.
-
